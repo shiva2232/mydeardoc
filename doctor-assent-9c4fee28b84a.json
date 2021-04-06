@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "doctor-assent",
+  "private_key_id": "9c4fee28b84a475a21365d34254a677be6d5d6f0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1a/RF+auOHlV0\nbMSQPnrn7MGNGbgpycj7rscO+Hr7U2xhn3gtTOOMOCk5/DfoeiUmX8wMte2bNKqI\n2fm9VN1i8MD3+OdxWeF7SnUEtXCea7jGHgBwDmvXN3LSFg+xf0YhwDE/kJG2t/Tc\nRHM9mxwJLv64XdI7sqK6S6qdrTADqyN5qi8uDtS+otu+gdKiMyksx/e9edPJPFH+\nqMMFoYmPZgBPkVSlpOZnYPmm1seFbZnD1JYZUIf2Lqra3VobMRwnV1Tw2yWhWUsj\nlOzkdv+JgJX8Qj+xSlxPgdeBZZYrKDBYBgeO3Pd12SQkAoVVRxmCuFkXLLGkwyV9\nrleQ9AozAgMBAAECggEAIXuwpD+NrZeknu26I4McjPRxznhqOHAxA16BB57Nl9gQ\nPz4+4GF597Wfyj9mFCaC97+jec8T8Nq6BLLyOELS70FO5BVQped4SZh2220fQWXR\nPuNnokbPGXP24ZZHxDMgvvbpP/mPIyF1dDe/6yVW+czuHxnVxMXV6bswXJSLsYlS\nnihf8/KbAbeANuDYg98GHr7B78ymDpIQZjc64PgmefSix8+zPEa32pdlW8xpcO+F\n7NF6jvq8x/pa3+VfEgMYwWrzyeLW+7l2SfHUSyNvJma8S46xSFR2wAApfg0J1/Zu\n93Fdyo3EItZc9Ex6UBHsw8CCCBer5fFW2IA5t/hhAQKBgQD3at3FF1O4ubC9gYty\nWoKGB2ZKRCqoVXzS2CdObGS235XvPQwboMg7Du1n4Jpeu5TuBoSOklKmyrBOw80J\n04yAwi3yknwxCaufx1jZeIboB1+IXf8j6OlZEuP36J83LycaekgljV8Z6Cd2eT8k\n6Gm2/rLFnGyDMPKiFdUQveN3AQKBgQC7twcfnP/wS+E4Ku27hG6yv9srvg/F+O+o\ndVeZkca+xLM8L7ULN/nn5v3iEeJY/fnsgeegJfR6EjWQ8bEgDCqFsLSSIXHuunw3\nofMH4HpACuYrFYmEVjtAtgKDPT8j4aMzDiDS4pxhlqhL0XxdtxMQACihNqCPsS1W\nIHKMViBVMwKBgQCwxYG9l3URvlowi6X+BfzLle3XkeyIaMvOOPGcboVmw0h0rcFA\n3BczWu70EN06Yft+NNnwo0q6MIbXP733D1aLiDEb5t0kjCw69Ere1eZNUTdITyBD\nn91Y7s5CCcn3u5DMsiFp8x/Her73PpmG3Sbqv/8qgSBme0pf1Alu9LzYAQKBgF0y\nf+zoLAIICmeymJmTJMrGinBrSrWF5KcEq1tpjv1D96EYJpDNV9wVSVOmgXShlCYi\nUPeoIHtC8ylldgVtROdfVid/R2u5VtbgJyNwBgIp5yDY7o+vqHd2ZkT2cZTFABvn\nFdDeBbpF7ITIGzEEJgi5q3JvBsSQuOub7INUd3UVAoGAXHUjv+FWPk+KPh33Hryd\nYataIMHxtyvXEPy9pe59sCM6Vqd2DNyZ4GTdHf67Ywy0dH3p8Fdat1zMhWinh+jD\ni34zSlRWZZ09KhsFLG7bNOUrph1s8TP8S0yMdO6NvVED0vsct5BfukJXsS7uC0jX\n9ysMIF9OIwoQjB1LXpw3ntQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "doctor-assent@appspot.gserviceaccount.com",
+  "client_id": "107863583225200140782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/doctor-assent%40appspot.gserviceaccount.com"
+}

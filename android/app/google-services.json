@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64671891498",
+    "firebase_url": "https://doctor-assent-default-rtdb.firebaseio.com",
+    "project_id": "doctor-assent",
+    "storage_bucket": "doctor-assent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64671891498:android:573de93f1d420d88b50353",
+        "android_client_info": {
+          "package_name": "com.aayudha.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64671891498-kihg1ah9l8v7hl3a8h93fmuqafdkbkcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXm1RcKi5vkKbHbyM6F-a5dxm0zP1YfuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64671891498-kihg1ah9l8v7hl3a8h93fmuqafdkbkcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
